@@ -1,0 +1,4 @@
+# ignore directory specific notes files
+
+**/wm.md
+gcp_terraform_templates/
