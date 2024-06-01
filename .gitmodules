@@ -1,0 +1,3 @@
+[submodule "IndegoMage"]
+	path = IndegoMage
+	url = https://github.com/DanLucas1/IndegoMage.git
