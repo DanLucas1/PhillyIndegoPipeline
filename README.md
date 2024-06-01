@@ -5,7 +5,7 @@ This project is an example Data Engineering pipeline to consume and visualize bi
 
 The project is informed by the guidelines for the capstone project of the DataTalksClub [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) but may deviate from those guidelines because my schedule for the course did not align with the 2024 live cohort and the project therefore isn't being graded.
 
-### Current Project Status: building cloud infrastructure in Google Cloud Platform:
+### Current Project Status: building cloud infrastructure in Google Cloud Platform
 - Cloud storage file management
 - Cloud Run containers for orchestration with [Mage](https://www.mage.ai/)
 - Dataproc Clusters for Spark batch processing
