@@ -2,3 +2,11 @@
 
 **/wm.md
 gcp_terraform_templates/
+keys/
+
+**/.terraform.lock.hcl
+**/.terraform/
+**/backup-main.tf
+**/backup-variables.tf
+**/terraform.tfstate
+**/terraform.tfstate.backup
