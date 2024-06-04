@@ -11,4 +11,4 @@ The project is informed by the guidelines for the capstone project of the DataTa
 - Dataproc Clusters for Spark batch processing
 - BigQuery for Data Warehousing
 
-Further documentation and updates TK.
+![Pipeline Diagram](assets/Model databases.png)
